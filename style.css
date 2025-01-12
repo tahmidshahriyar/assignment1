@@ -1,0 +1,97 @@
+body{
+    margin: 100px 200px;
+    
+    background-color: #F1F1F3;
+}
+
+.btn-prime{
+    background-color: #006A50;
+    padding: 17px 32px;
+    color: white;
+    border-radius: 4px;
+}
+
+.firstbox{
+    display: flex;
+    gap: 300px; 
+    /* bootcamp theika sikhsilm gap attribute */
+    background-color: #C6E4D6;
+    padding: 100px 80px;
+    border-radius: 9px;
+
+}
+.paraOf1stBox{
+    font-size: 56px;
+}
+.h1of1stbox{
+    color:#868b8b;
+    margin-top: 50px;
+    font-size: 24px;
+}
+
+/* the three box */
+.cardImg{
+    width: 62px;
+    height: 62px;
+}
+.prothom{
+    width: 410px;
+    height: 270px;
+    padding: 32px 32px;
+    background-color: #91b3ee;
+    border-radius: 10px;
+}
+.ditiyo{
+    width: 410px;
+    height: 270px;
+    padding: 32px 32px;
+    background-color: #C6E4D6;
+    border-radius: 10px;
+}
+.third{
+    width: 410px;
+    height: 270px;
+    padding: 32px 32px;
+    background-color: #F7EBCF;
+    border-radius: 10px;
+}
+.paraof2box{
+    font-size: 16px;
+}
+
+.btnOf3box{
+    padding: 11px 20px;
+    color: white;
+    border-radius: 8px;
+}
+.btn1{
+    background-color: #5490F5;
+}
+.btn2{
+    background-color:#09A15C ;
+}
+.btn3{
+    background-color:#FFD55D ;
+}
+
+.threebox{
+    display: flex;
+    gap: 20px;
+
+}
+/* recent news */
+.h1ofRenew{
+    font-size: 32px;
+}
+.renews1{
+    width: 1200px;
+    height: 330px;
+    margin-top: 40px;
+    padding: 30px 40px;
+    background-color: white;
+    display: flex;
+    gap: 10px;
+}
+.renews{
+    display: flex;
+}
