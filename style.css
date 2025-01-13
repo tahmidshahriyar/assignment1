@@ -139,3 +139,20 @@ body{
 button:hover{
     background-color: #F7EBCF;
 }
+.coromMullo{
+    height: 200px;
+    width: 1200px;
+}
+.coromMullo h1{
+    font-size: large;
+}
+.coromMullo p{
+    padding-top: 45px;
+}
+.coromMullo{
+    background-image: url(./imagee/quote-bg.png);
+    background-position: bottom top;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
